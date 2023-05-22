@@ -1,4 +1,4 @@
-package QuanLi;
+package MayChieu;
 
 
     class MayChieu extends ThietBi {
